@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi. I am MS CS (DS) student at USC. Have completed my BE CS from BITS Pilani. <br>I am a full stack developer and am also interested in the field of machine and deep learning.
+👋 Hi there! I am a MS CS (DS) student at USC 🎓 and a proud alumnus of BITS Pilani 🎓, where I completed my BE CS. 💻
+
+Passionate about ML 🤖, Full Stack 🌐, Kernel 🖥️, and .NET development 🎯. Worked on exciting projects in Machine Learning, Deep Learning, Full Stack, and Kernel Development in WeenixOS. Always learning and growing with the latest advancements. 📈💻🚀<br>
+If you share this passion, or simply want to connect, feel free to reach out to me on LinkedIn 🤝: www.linkedin.com/in/sachin-singh1080 💼
+<br>
+Let's network and explore the exciting world of computer science together! 🌐💡
 
 
 ## 🌐 Socials:
