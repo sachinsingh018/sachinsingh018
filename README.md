@@ -19,7 +19,7 @@ Let's network and explore the exciting world of computer science together! 🌐�
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sachinsingh018&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
