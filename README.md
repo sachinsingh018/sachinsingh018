@@ -19,7 +19,7 @@ Let's network and explore the exciting world of computer science together! 🌐�
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsingh018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,Commits,Repositories,Issues,PullRequest,Follower)
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,Commits,Repositories,Issues,PullRequest)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
