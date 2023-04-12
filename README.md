@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi. I am MS CS (DS) student at USC. Have completed my BE CS from BITS Pilani. <br>I am a full stack developer and am also interested in the field of machine and deep learning.<br>Have done multiple projects in the fields of interest till date. Also interested in kernel development.
+Hi. I am MS CS (DS) student at USC. Have completed my BE CS from BITS Pilani. <br>I am a full stack developer and am also interested in the field of machine and deep learning.
 
 
 ## 🌐 Socials:
