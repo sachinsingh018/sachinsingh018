@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I am a MS CS (DS) student at USC 🎓 and a proud alumnus of BITS Pilani 🎓, where I completed my BE CS. 💻
+👋 Hi there! I am a Master's Graduate from USC 🎓 and a proud alumnus of BITS Pilani 🎓, where I completed my BE CS. 💻
 
 Passionate about ML 🤖, Full Stack 🌐, Kernel 🖥️, and .NET development 🎯. Worked on exciting projects in Machine Learning, Deep Learning, Full Stack, and Kernel Development in WeenixOS. Always learning and growing with the latest advancements. 📈💻🚀<br>
 
