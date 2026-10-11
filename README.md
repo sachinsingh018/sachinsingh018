@@ -1,12 +1,15 @@
 # 💫 About Me:
-👋 Hi there! I am a Master's Graduate from USC 🎓 and a proud alumnus of BITS Pilani 🎓, where I completed my BE CS. 💻
+👋 Hi there! I'm Sachin, a software and AI engineer who builds production systems where mistakes are expensive. 🎓 Master's in CS from USC, BE CS from BITS Pilani.
 
-Passionate about ML 🤖, Full Stack 🌐, Kernel 🖥️, and .NET development 🎯. Worked on exciting projects in Machine Learning, Deep Learning, Full Stack, and Kernel Development in WeenixOS. Always learning and growing with the latest advancements. 📈💻🚀<br>
+💼 At Ignyte Group, I take systems from the first discovery session to go-live:
+- 🤖 LLM agents on AWS Bedrock clearing 77% of licence renewals for 1.5M+ healthcare practitioners
+- ⚡ A judicial case-management platform made 70% faster
+- 🗄️ A 10M+ record MySQL to SQL Server migration
+- 🚀 Before that, co-founder and CTO of Networkqy AI, an AI startup that reached 15,000 users
 
-If you share this passion, or simply want to connect, feel free to reach out to me on LinkedIn 🤝: www.linkedin.com/in/sachin-singh1080 💼
-<br>
-Let's network and explore the exciting world of computer science together! 🌐💡
+🛠️ Java, Python, React, SQL, AWS, RAG, and Appian. Still into ML, full stack, and systems work, going back to kernel development on WeenixOS at USC.
 
+📫 Feel free to reach out on LinkedIn 🤝: [linkedin.com/in/sac108](https://www.linkedin.com/in/sac108)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachinsingh1080) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-singh1080) [![Website](https://img.shields.io/badge/Website-%23323330.svg?logo=firefox-browser&logoColor=white)](http://sachinsingh018.github.io)
