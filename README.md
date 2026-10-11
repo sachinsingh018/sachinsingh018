@@ -9,6 +9,8 @@
 
 🛠️ Java, Python, React, SQL, AWS, RAG, and Appian. Still into ML, full stack, and systems work, going back to kernel development on WeenixOS at USC.
 
+🌐 Check out my portfolio: [sachinsingh018.github.io](https://sachinsingh018.github.io)
+
 📫 Feel free to reach out on LinkedIn 🤝: [linkedin.com/in/sac108](https://www.linkedin.com/in/sac108)
 
 ## 🌐 Socials:
